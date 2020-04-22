@@ -16,4 +16,9 @@ public class DbService implements HttpTraceRepository {
     public void add(HttpTrace trace) {
 
     }
+
+    // 测试合并冲突
+    public void test() {
+        
+    }
 }
